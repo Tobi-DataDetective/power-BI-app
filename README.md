@@ -5,7 +5,7 @@ This project involved the following steps:
 * Creating of several Data sources, MySQL database, Google Sheet, Data Verse
 * Using knowledge of database relationship to create data links with all linkable tables
 * creating a connection to power bi
-* Building a full monitoring Dashboard that can be used by for employee tracking and inventory monitoring
+* Building a full monitoring Dashboard that can be used for employee tracking and inventory monitoring
 
 Dashboards created are :
 1. Staff Analytics Dashboard
