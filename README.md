@@ -1,4 +1,4 @@
-# power-BI Full Stack Development 
+# Power BI Full Stack Development 
 
 This project involved the following steps:
 
